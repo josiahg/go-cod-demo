@@ -4,7 +4,7 @@ A simple example showing how to connect a golang app to Cloudera Operational Dat
 
 This app demonstrates how to create a connection, create a table, insert a row, and read that row.
 
-Ddepends on the excellent [Calcite Avatica Go](https://github.com/apache/calcite-avatica-go) driver.
+Depends on the excellent [Calcite Avatica Go](https://github.com/apache/calcite-avatica-go) driver.
 
 # Usage
 
